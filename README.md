@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/5688f009-69fe-409f-a6bf-882b108b4016)Данные:
+![image](https://github.com/user-attachments/assets/5688f009-69fe-409f-a6bf-882b108b4016)
+
+Данные:
 
 x1 = [0.58, 1.72, 0.33, 1.34, 1.76, 1.54, 1.83, 0.84, 1.11, 1.06]
 
